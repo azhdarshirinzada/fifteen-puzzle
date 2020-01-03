@@ -2,7 +2,6 @@ from tkinter import Tk
 from puzzle_model import PuzzleModel
 from puzzle_view import PuzzleView
 
-
 if __name__ == '__main__':
 
     root = Tk()
